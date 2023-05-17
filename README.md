@@ -23,3 +23,9 @@ Link do Video: https://www.youtube.com/watch?v=6Ok-kUrBGp8&lc=UgzQMuCFLbzZ_TVSDu
 - [x] Animações com a biblioteca [AOS](https://michalsnik.github.io/aos/)
 - [x] Uso do CSS Flexbox
 - [x] Efeitos com a propriedade `transform` do css
+
+## 📺 Tutorial no Youtube
+
+<a href="https://www.youtube.com/watch?v=6Ok-kUrBGp8" target="_blank">
+ <img src="https://img.youtube.com/vi/6Ok-kUrBGp8/maxresdefault.jpg" width="100%" height="auto" />
+</a>
