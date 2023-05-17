@@ -10,7 +10,7 @@
 Esse site foi desenvolvido, através de um desafio no canal do YouTube do <a href="https://github.com/leovargasdev" target="_blank"> Léo Vargas </a>
 
 
-<a href="https://www.youtube.com/watch?v=6Ok-kUrBGp8&lc=UgzQMuCFLbzZ_TVSDux4AaABAg.9piCsS9k1sW9pjHAjKCflP" target="_blank"> Link do Video do Léo </a>
+<a href="https://www.youtube.com/watch?v=6Ok-kUrBGp8&lc=UgzQMuCFLbzZ_TVSDux4AaABAg.9piCsS9k1sW9pjHAjKCflP" target="_blank"> Link do video do Léo </a>
 
 ## 🚀 Tecnologias
 
