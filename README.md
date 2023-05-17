@@ -14,3 +14,11 @@ Link do Video: https://www.youtube.com/watch?v=6Ok-kUrBGp8&lc=UgzQMuCFLbzZ_TVSDu
 - HTML
 - CSS
 - [AOS Animate](https://michalsnik.github.io/aos/)
+
+📔 Conhecimentos abordados
+ Uso semântico do HTML
+ Carregamento de video no background
+ Váriaveis do css no :root
+ Animações com a biblioteca AOS
+ Uso do CSS Flexbox
+ Efeitos com a propriedade transform do css
