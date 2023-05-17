@@ -8,3 +8,9 @@ Super Mario Bros
 Esse site foi desenvolvido, através de um desafio no canal do YouTube do Leo Vargas Dev (https://github.com/leovargasdev)
 
 Link do Video: https://www.youtube.com/watch?v=6Ok-kUrBGp8&lc=UgzQMuCFLbzZ_TVSDux4AaABAg.9piCsS9k1sW9pjHAjKCflP
+
+## 🚀 Tecnologias
+
+- HTML
+- CSS
+- [AOS Animate](https://michalsnik.github.io/aos/)
