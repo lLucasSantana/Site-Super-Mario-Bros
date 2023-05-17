@@ -18,7 +18,7 @@ Esse site foi desenvolvido, através de um desafio no canal do YouTube do <a hre
 - CSS
 - [AOS Animate](https://michalsnik.github.io/aos/)
 
-## 📔 Conhecimentos abordados
+## 📔 Conteúdo abordados
 
 - [x] Uso semântico do HTML
 - [x] Carregamento de video no background
